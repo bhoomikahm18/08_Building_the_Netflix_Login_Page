@@ -9,7 +9,6 @@ inputs.forEach(input => {
 
 
 function validateInput(e) {
-     // console.log(e.target.id);
 
      // array of states
      const states = ['valid', 'not-valid'];
